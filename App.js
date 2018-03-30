@@ -19,7 +19,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import Scores from './components/Scores';
 import Sidebar from './components/Sidebar';
-import { Provider } from 'react-redux'
+import { Provider } from 'react-redux';
 import ProtectedRoute from './components/ProtectedRoute';
 import store from './store';
 
